@@ -1,0 +1,12 @@
+my
+str
+STR 
+filefile     FILE
+mystr   STR   
+
+
+file
+
+FILE
+        fileStR
+0-0str0_0
